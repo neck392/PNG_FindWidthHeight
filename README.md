@@ -1,2 +1,2 @@
 # PNG_FindWidthHeight
-Calculating width and height using crc32 values ​​in PNG format(extension)
+Calculating width and height using CRC32 values ​​in PNG format(extension)
